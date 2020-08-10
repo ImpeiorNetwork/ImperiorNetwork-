@@ -3,11 +3,11 @@ body {
 }
 @font-face {
 		font-family: 'Sucrose Bold Two';
-		src: url(../img/Emperior.png) format('woff2');
+		src: url(../PicsArt_08-04-01.39.39.png) format('woff2');
 		}
 @font-face {
     font-family: 'IM Fell French Canon Pro';
-    src: url(../img/Emperior.png) format('woff2');
+    src: url(../PicsArt_08-04-01.39.39.png) format('woff2');
 }
 * {
   box-sizing: border-box;
@@ -16,7 +16,7 @@ body {
   margin: 0;
 }
 header { 
-	background:url(../img/Emperior.png)
+	background:url(../PicsArt_08-04-01.39.39.png)
 	no-repeat;
 	padding-right:  70.93333333%;
 	padding-top: 70.93333333%;
